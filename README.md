@@ -6,26 +6,27 @@ This project is a digital menu for a fictional restaurant called Food Explorer.
 </h1>
 
 ## :scroll: Table of Contents
--[Notice](#:loudspeaker-notice)
--[About](#:blue_book:-about)
--[Technologies](#:man_technologist:-technologies)
--[Features](#:toolbox:-features)
--[Usage](#:briefcase:-usage)
--[Author]()
+
+- [Notice](#loudspeaker-notice)
+- [About](#blue_book-about)
+- [Technologies](#man_technologist-technologies)
+- [Features](#toolbox-features)
+- [Usage](#briefcase-usage)
+- [Author](#ghost-author)
 
 </br>
 
 ## :loudspeaker: Notice
 
-·The first version of the project is finalized.
+- The first version of the project is finalized.
 
-·To test the project or clone the repository and test it locally using NodeJS and Postman.
+- To test the project or clone the repository and test it locally using NodeJS and Postman.
 
-·You can download NodeJS by [clicking here](https://nodejs.org/pt-br/download/).
+- You can download NodeJS by [clicking here](https://nodejs.org/pt-br/download/).
 
-·You can download Postman by [clicking here](https://www.postman.com/downloads/).
+- You can download Postman by [clicking here](https://www.postman.com/downloads/).
 
-·The database modeling was done by me.
+- The database modeling was done by me.
 
 </br>
 
@@ -49,62 +50,62 @@ Below is the database modeling:
 
 ## :man_technologist: Technologies
 
-·**JS** - used to handle all the application logic.
-·**Node.js** - used to run JavaScript outside the browser.
-·**Express** - responsible for handling HTTP requests.
-·**Jest** - used for integration testing.
-·**SQLite** - used to store data.
-·**Knex** - used to generate SQL commands.
-·**Multer** - used to manage image uploads.
-·**Git** - responsible for version control of the code.
+- **JS** - used to handle all the application logic.
+- **Node.js** - used to run JavaScript outside the browser.
+- **Express** - responsible for handling HTTP requests.
+- **Jest** - used for integration testing.
+- **SQLite** - used to store data.
+- **Knex** - used to generate SQL commands.
+- **Multer** - used to manage image uploads.
+- **Git** - responsible for version control of the code.
 
 </br>
 
 ## :toolbox: Features
 
-· :ballot_box_with_check: Register a user.
-· :ballot_box_with_check: Update user's email, password, or name.
-· :ballot_box_with_check: Show information for a specific order.
-· :ballot_box_with_check: Show all orders for a user or all users.
-· :ballot_box_with_check: Create, update, show, or delete a dish.
-· :ballot_box_with_check: Create or show an ingredient.
-· :ballot_box_with_check: Create, update, show order information.
+- :ballot_box_with_check: Register a user.
+- :ballot_box_with_check: Update user's email, password, or name.
+- :ballot_box_with_check: Show information for a specific order.
+- :ballot_box_with_check: Show all orders for a user or all users.
+- :ballot_box_with_check: Create, update, show, or delete a dish.
+- :ballot_box_with_check: Create or show an ingredient.
+- :ballot_box_with_check: Create, update, show order information.
 
 </br>
 
 ## :briefcase: Usage
 
--[Starting the application](#starting-the-application)
--[Using the resources](#using-the-resources)
-  -[Sections](#sessions)
-    -[Create](#create-a-session)
-  -[Users](#users)
-    -[Register](#register-a-user)
-    -[Update](#update-a-user)
-  -[Dishes](#dishes)
-    -[Create](#create-a-dish)
-    -[Update](#update-a-dish)
-    -[Show all]()
-    -[Search]()
-    -[Show specific]()
-    -[Delete]()
-    -[Update photo]()
-  -[Ingredients]()
-    -[Create]()
-    -[Update photo]()
-    -[Show all]()
-  -[Favorites]()
-    -[Add]()
-    -[Remove]()
-    -[Show all]()
-  -[Orders]()
-    -[Create]()
-    -[Update]()
-    -[Show one]()
-    -[Show all]()
-  -[Photos]()
-    -[Dish]()
-    -[Ingredient]()
+- [Starting the application](#starting-the-application)
+- [Using the resources](#using-the-resources)
+  - [Sections](#sessions)
+    - [Create](#create-a-session)
+  - [Users](#users)
+    - [Register](#register-a-user)
+    - [Update](#update-a-user)
+  - [Dishes](#dishes)
+    - [Create](#create-a-dish)
+    - [Update](#update-a-dish)
+    - [Show all](#retrieve-all-meals)
+    - [Search](#search-for-a-meal)
+    - [Show specific](#show-a-specific-meal)
+    - [Delete](#delete-a-meal)
+    - [Update photo](#update-a-meal's-photo)
+  - [Ingredients](#ingredients)
+    - [Create](#create-an-ingredient)
+    - [Update photo](#update-an-ingredient's-photo)
+    - [Show all](#show-all-ingredients)
+  - [Favorites](#favorites)
+    - [Add](#add-a-favorite)
+    - [Remove](#remove-a-favorite)
+    - [Show all](#*show-all-favorites)
+  - [Orders](#orders)
+    - [Create](#create-an-order)
+    - [Update](#update-an-order)
+    - [Show one](#show-an-order)
+    - [Show all](#show-all-orders)
+  - [Photos](#photos)
+    - [Dish](#show-photo-of-a-dish)
+    - [Ingredient](#show-photo-of-an-ingredient)
 
 ### _Starting the application_
 
