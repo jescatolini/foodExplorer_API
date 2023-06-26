@@ -18,6 +18,8 @@ This project is a digital menu for a fictional restaurant called Food Explorer.
 
 ## :loudspeaker: Notice
 
+- API deployment is in: https://foodexplorer-api-o3ol.onrender.com
+
 - The first version of the project is finalized.
 
 - To test the project or clone the repository and test it locally using NodeJS and Postman.
